@@ -1,0 +1,7 @@
+{
+  "name": "Copy of OAI - OM Artificial Intelligence",
+  "description": "A high-end, glassmorphic AI chatbot designed for advanced logical reasoning with a futuristic aesthetic.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
